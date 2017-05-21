@@ -1,0 +1,8 @@
+import javax.swing*;
+import java.awt.*;
+import java.awt.event.*;
+
+一般在main（）方法中，选择GUI的外观风格
+创建并设置窗口容器
+创建与添加Swing组件
+显示顶层容器，将整个GUI显示出来
